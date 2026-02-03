@@ -14,7 +14,8 @@ while guess!=boom:
     counter+=1
 else:
         print("correct guess👊")   
-        print("attempts👍:",counter)
+        print("attempts:",counter)
  
+
 
 
